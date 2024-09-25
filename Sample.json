@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-23T14:00:05Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Khloe Kardashian Recalls Running Into Justin Bieber At Diddy's Bash, Resurfaced Clip - TMZ",
+            "description": "A resurfaced clip from \"Keeping Up With The Kardashians\" is raising eyebrows ... with Khloe Kardashian spilling the tea about attending one of Diddy’s notorious parties, casually name-dropping that Justin Bieber was also in the mix.",
+            "url": "https://www.tmz.com/2024/09/23/khloe-kardashian-justin-bieber-diddy-party-resurfaced-clip/",
+            "urlToImage": "https://imagez.tmz.com/image/22/16by9/2024/09/23/22b17386d8074647961e8fdbe38c8115_xl.jpg",
+            "publishedAt": "2024-09-23T13:58:21Z",
+            "content": "A resurfaced clip from \"Keeping Up With The Kardashians\" is raising eyebrows ... with Khloe Kardashian spilling the tea about attending one of Diddys notorious parties, casually name-dropping that Ju… [+1288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Diego Ramos Bechara",
+            "title": "‘Gladiator 2’ New Trailer: Paul Mescal Bleeds, Sweats and Battles Pedro Pascal in Ridley Scott’s Sequel - Variety",
+            "description": "Watch the new trailer for 'Gladiator 2,' starring Paul Mescal and Pedro Pascal.",
+            "url": "https://variety.com/2024/film/news/gladiator-2-new-trailer-paul-mescal-pedro-pascal-ridley-scott-1236116724/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/09/gladiator-paul.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-09-23T13:09:00Z",
+            "content": "A bloody, sweaty Paul Mescal goes to war to save Rome in the new trailer for Ridley Scott’s “Gladiator 2.”\r\nThe sequel stars Mescal as Lucius, the son of Lucilla (Connie Nielsen) and nephew of Commod… [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Intel Stock Rises on Apollo Investment Report - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/intel-stock-apollo-investment-report-d61c6a29",
+            "urlToImage": null,
+            "publishedAt": "2024-09-23T12:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "Lawmakers back in Washington with short-term government funding bill atop to-do list - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/live-updates/2024/09/23/congress/end-game-on-government-funding-house-gop-johnson-00180455",
+            "urlToImage": null,
+            "publishedAt": "2024-09-23T12:42:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Hauari",
+            "title": "Storm tracker: Tropical storm could form in Gulf of Mexico early this week - USA TODAY",
+            "description": "The National Hurricane Center said Monday it is tracking a system in the Gulf of Mexico that could become Tropical Storm Helene in the coming days.",
+            "url": "https://www.usatoday.com/story/news/weather/2024/09/23/hurricane-tropical-storm-tracker/75344688007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/23/USAT/75345035007-two-atl-7-d-0-1.png?crop=507,285,x0,y219&width=507&height=285&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-23T12:34:27Z",
+            "content": "The National Hurricane Center is tracking a system in the Gulf of Mexico that could strengthen into a tropical storm in the next couple of days.\r\nAccording to an early Monday morning advisory from th… [+3620 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Patrick Svitek, Azi Paybarah, Mariana Alfaro, Jose A. Del Real, Abha Bhattarai, Theodoric Meyer, Leigh Ann Caldwell, Ashley Parker, Tony Romm, Lori Rozsa, David Ovalle, Toluse Olorunnipa, Hannah Knowles",
+            "title": "Election 2024 live updates: Trump headed back to Pennsylvania, where polls show a tight race - The Washington Post",
+            "description": "Get the latest news from the 2024 campaign trail in the contest between Vice President Kamala Harris and former president Donald Trump.",
+            "url": "https://www.washingtonpost.com/elections/2024/09/23/2024-election-campaign-updates-harris-trump/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T5O6HBT54FICRXQQV2YFVA5NNA.jpg&w=1440",
+            "publishedAt": "2024-09-23T12:09:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prideofdetroit.com"
+            },
+            "author": "Hamza Baccouche",
+            "title": "Lions vs. Cardinals stock report: 5 risers, 4 fallers from win in the desert - Pride Of Detroit",
+            "description": "Check out your movers after the Detroit Lions de-feathered the Cardinals in Arizona.",
+            "url": "https://www.prideofdetroit.com/2024/9/23/24251883/detroit-lions-arizona-cardinals-stock-report-week-2-risers-fallers",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/2r7PnDbYHeAvpKwcJb_vhlvATk8=/0x0:6702x3509/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25635388/2173811812.jpg",
+            "publishedAt": "2024-09-23T12:00:00Z",
+            "content": "They say if you cant take the heat, get out of the kitchen. On Sunday, the Detroit Lions were comfortable in the kitchen, fending off the Arizona Cardinals in Glendale by a score of 20-13. They conti… [+6008 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Antoinette Radford, Lex Harvey",
+            "title": "Live updates: Israel strikes Hezbollah targets as conflict intensifies - CNN",
+            "description": "The Israeli military said Monday it was “conducting extensive strikes” on Hezbollah targets in Lebanon. Israel and Hezbollah exchanged waves of strikes over the weekend, with the militant group striking deeper than they have done in recent attacks. Follow for…",
+            "url": "https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-23-24-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/dle/2024-09-23/33681e09-9516-408a-b9b8-7d8960f62709.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-23T11:58:00Z",
+            "content": "Hillary Clinton has criticized Columbia Universitys pro-Palestinian campus protests, which she alleged were heavily influenced by outside funding and groups, calling the demonstrators treatment of Je… [+1920 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Biggest impediment to any acquisition for Intel is regulatory approval, says Wolfe's Chris Caso - CNBC Television",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/",
+            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+            "publishedAt": "2024-09-23T11:55:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "UniCredit lifts stake in Commerzbank to 21% - Financial Times",
+            "description": null,
+            "url": "https://www.ft.com/content/4564b66a-e491-4b77-8419-df32e36f3e13",
+            "urlToImage": null,
+            "publishedAt": "2024-09-23T11:52:15Z",
+            "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Tandem OLED is OLED’s latest weapon in holding off MicroLED, QDEL - Ars Technica",
+            "description": "Brighter and tougher, Tandem RGB stacks may help OLED keep its display reign.",
+            "url": "https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/tandem-oled-760x380.jpg",
+            "publishedAt": "2024-09-23T11:00:38Z",
+            "content": "Enlarge/ Like a Tandem bicycle, Tandem OLED doubles certain components for exciting momentum. \r\n17\r\nTandem OLED has been around for years, but Apple made the technology feel new and shiny when it ann… [+3109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boston 25 News"
+            },
+            "author": "Litsa Pappas",
+            "title": "One bull loose after 8 escape from North Attleboro rodeo, officials say event to be investigated - Boston 25 News",
+            "description": "Video given to Boston 25 News by a viewer shows the herd of bulls knocking over a chainlink fence before streaking into a parking lot.",
+            "url": "https://www.boston25news.com/news/local/one-bull-loose-after-8-escape-north-attleboro-rodeo-officials-say-event-be-investigated/YW6FM5NZZ5EINBYGYA7IQ4PUBY/",
+            "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/oASo773JeWNH0TIMn2tzEQGyKvw=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AFFG3JWV7ZBGLPTJGZTHHI5GHQ.jpeg",
+            "publishedAt": "2024-09-23T11:00:30Z",
+            "content": "NORTH ATTLEBORO, Mass. — Eight escaped bulls caused havoc as they raced out of a rodeo at a North Attleboro mall on Sunday.\r\nAccording to the North Attleboro Fire Department, eight bulls escaped from… [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse",
+            "title": "Vikings cement Super Bowl credentials, Ravens plunge Cowboys into crisis mode, Panthers get 1st win: NFL Week 3 Sunday review - CNN",
+            "description": "Sunday’s slate of Week 3 games brought out a lot of debut wins for franchises, but it also cemented contender status for other teams.",
+            "url": "https://www.cnn.com/2024/09/23/sport/nfl-week-3-sunday-review-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/nfl01-nfl01-gettyimages-2173754886-jpg.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-23T10:20:00Z",
+            "content": "The theme for Week 3 was teams getting their first win of the season.\r\nSix franchises entered Sundays slate of games with two defeats to begin the new season, but that all changed this week as only t… [+8571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Jony Ive Confirms Involvement in AI Hardware Project With OpenAI - MacRumors",
+            "description": "Former Apple chief design officer Jony Ive has officially confirmed his involvement in an artificial intelligence hardware project with OpenAI CEO...",
+            "url": "https://www.macrumors.com/2024/09/23/jony-ive-working-on-new-device-openai/",
+            "urlToImage": "https://images.macrumors.com/t/hRYizngyTGm7xdEPF6QTlT1jYYc=/1600x/article-new/2021/11/jony-ive-ipad-pro.jpeg",
+            "publishedAt": "2024-09-23T10:15:28Z",
+            "content": "Former Apple chief design officer Jony Ive has officially confirmed his involvement in an artificial intelligence hardware project with OpenAI CEO Sam Altman. The confirmation appeared in a profile o… [+1650 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "You can get an at-home flu ‘shot’ starting next year - The Verge",
+            "description": "The Food and Drug Administration has approved FluMist, a nasally-administered influenza immunization treatment, to be self-administered at home.",
+            "url": "https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/z8TsLVbBm81AOK0uWWaZY4-wKms=/0x0:3890x2738/1200x628/filters:focal(1945x1369:1946x1370)/cdn.vox-cdn.com/uploads/chorus_asset/file/25635483/1032153952.jpg",
+            "publishedAt": "2024-09-23T10:09:35Z",
+            "content": "You can get an at-home flu shot starting next year\r\nYou can get an at-home flu shot starting next year\r\n / The FDA has approved the FluMist nasal vaccine for self-administration, but it will still re… [+2011 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Capsule carrying 2 Russians and 1 American heads to Earth from space station - The Associated Press",
+            "description": "A Soyuz capsule carrying two Russians and one American from the International Space Station has landed in Kazakhstan, ending a record-breaking stay for the Russian pair. The capsule landed on the Kazakh steppe about 3 1/2 hours after undocking from the ISS in…",
+            "url": "https://apnews.com/article/international-space-station-capsule-russians-americans-earth-5fa5492856400fb9e1ac1275c8364ea3",
+            "urlToImage": "https://dims.apnews.com/dims4/default/45d478a/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F44%2F774cb530865c75baa52d88cafcca%2Fspc-iss-soyuz-undocking-20240923cr-1920x1080.jpg",
+            "publishedAt": "2024-09-23T10:02:00Z",
+            "content": "MOSCOW (AP) A Soyuz capsule carrying two Russians and one American from the International Space Station landed Monday in Kazakhstan, ending a record-breaking stay for the Russian pair.\r\nThe capsule l… [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/louis-c-hochman",
+            "title": "Brace for the slowest Manhattan traffic of the year. The UN is in town. - Gothamist",
+            "description": "And it's not going to get much better through the 2024 holiday season.",
+            "url": "https://gothamist.com/news/brace-for-the-slowest-manhattan-traffic-of-the-year-the-un-is-in-town",
+            "urlToImage": "https://api-prod.gothamist.com/images/347281/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2024-09-23T10:01:00Z",
+            "content": "And you thought traffic was bad already.\r\nThe New York City Department of Transportation says motorists should expect the slowest traffic of the year in Midtown with the United Nations General Assemb… [+1872 chars]"
+        }
+    ]
+}
